@@ -6,10 +6,35 @@
     "engines": {
         "vscode": "^1.52.0"
     },
+    "publisher": "codefriar",
+    "icon": "Apex.png",
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
-        "publisher.extensionName"
+    "extensionPack": [
+        "salesforce.codey-s-in-bed-by-10",
+        "salesforce.salesforcedx-vscode-expanded",
+        "modicatech.apex-code-coverage-visualizer",
+        "btamburrino.apex-javadoc",
+        "financialforce.lana",
+        "chuckjonas.apex-pmd",
+        "aaron-bond.better-comments",
+        "coenraads.bracket-pair-colorizer-2",
+        "auchenberg.vscode-browser-preview",
+        "streetsidesoftware.code-spell-checker",
+        "sidneys1.gitconfig",
+        "github.vscode-pull-request-github",
+        "michelemelluso.gitignore",
+        "oderwat.indent-rainbow",
+        "sirtori.indenticator",
+        "ms-vsliveshare.vsliveshare",
+        "pkief.material-icon-theme",
+        "jebbs.plantuml",
+        "pnp.polacode",
+        "esbenp.prettier-vscode",
+        "ms-vscode-remote.remote-ssh",
+        "ms-vscode-remote.remote-ssh-edit",
+        "ms-vscode-remote.remote-containers",
+        "TabNine.tabnine-vscode"
     ]
 }
