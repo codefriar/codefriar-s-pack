@@ -6,6 +6,10 @@
     "engines": {
         "vscode": "^1.52.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/codefriar/codefriar-s-pack.git"
+    },
     "publisher": "codefriar",
     "icon": "Apex.png",
     "categories": [
