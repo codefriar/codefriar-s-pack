@@ -30,6 +30,7 @@ This extension pack contains a laundry list of highly opinionated extension sele
 -   [Remote-ssh-edit](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit)
 -   [Remote-Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 -   [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscod)
+-   [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 
 ## Requirements
 
