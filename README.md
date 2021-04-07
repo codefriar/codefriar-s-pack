@@ -7,7 +7,7 @@ This extension pack contains a laundry list of highly opinionated extension sele
 ## What's included? (Batteries included)
 
 -   [Codey's in bed by 10 - theme](https://marketplace.visualstudio.com/items?itemName=salesforce.codey-s-in-bed-by-10)
--   [Salesforce Extention Pack (Expanded)](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-expanded)
+-   [Salesforce Extension Pack (Expanded)](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-expanded)
 -   [Apex Code Coverage Visualizer](https://marketplace.visualstudio.com/items?itemName=modicatech.apex-code-coverage-visualizer)
 -   [Apex Javadoc](https://marketplace.visualstudio.com/items?itemName=btamburrino.apex-javadoc)
 -   [Financial Force's Apex Log Analyzer](https://marketplace.visualstudio.com/items?itemName=financialforce.lana)
