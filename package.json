@@ -2,7 +2,7 @@
     "name": "codefriar-s-pack",
     "displayName": "Codefriar's pack",
     "description": "This extension pack sets up developers to use VS Code just like @codefriar does. Complete with tools and extensions for rapidly building Salesforce applications and code.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.52.0"
     },
